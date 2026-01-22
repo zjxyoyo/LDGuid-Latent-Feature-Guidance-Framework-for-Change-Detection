@@ -1,0 +1,2 @@
+# LDGuid-Latent-Feature-Guidance-Framework-for-Change-Detection
+A FRAMEWORK FOR ROBUST CHANGE DETECTION VIA LATENT DIFFERENCE GUIDANCE
